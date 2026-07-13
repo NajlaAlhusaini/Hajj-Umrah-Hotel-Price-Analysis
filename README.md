@@ -54,14 +54,7 @@ The primary dataset includes:
 - Hotel ratings have only a weak correlation with price.
 - Linear Regression achieved the best predictive performance among the evaluated models.
 
-## Repository Structure
 
-```
-DataScience.ipynb
-PROCESSED_HAJJ_UMRAH_2026.csv
-hotel_bookings.csv
-README.md
-```
 
 ## Future Improvements
 - Develop an interactive Power BI dashboard.
