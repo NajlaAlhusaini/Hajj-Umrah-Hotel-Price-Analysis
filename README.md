@@ -99,7 +99,7 @@ The project evaluates multiple regression models:
 - Decision Tree Regressor
 - Random Forest Regressor
 
-Linear Regression achieved the best overall performance among the evaluated models. :contentReference[oaicite:2]{index=2}
+Linear Regression achieved the best overall performance among the evaluated models. 
 
 ---
 
@@ -109,7 +109,7 @@ Linear Regression achieved the best overall performance among the evaluated mode
 - Ramadan and Pre-Hajj show noticeable price increases.
 - Hotel ratings have little correlation with hotel prices.
 - Geographic location has a significant influence on pricing.
-- Simpler models outperformed more complex tree-based models for this dataset. :contentReference[oaicite:3]{index=3}
+- Simpler models outperformed more complex tree-based models for this dataset. 
 
 ---
 
