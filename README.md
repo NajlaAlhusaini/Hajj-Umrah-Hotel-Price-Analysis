@@ -10,7 +10,7 @@ Data Science Project
 
 This project analyzes hotel prices in **Makkah**, **Madinah**, and **Taif** during the Hajj and Umrah seasons using data science techniques. The analysis investigates how religious seasons, hotel ratings, geographical location, and booking patterns influence hotel pricing.
 
-The project combines a custom dataset collected from Google Hotels through SerpAPI with a public hotel booking dataset to perform exploratory data analysis, predictive modeling, and comparative analysis. :contentReference[oaicite:0]{index=0}
+The project combines a custom dataset collected from Google Hotels through SerpAPI with a public hotel booking dataset to perform exploratory data analysis, predictive modeling, and comparative analysis. 
 
 This project was developed as part of the **IT362 – Data Science** course at **King Saud University**.
 
@@ -22,7 +22,7 @@ This project was developed as part of the **IT362 – Data Science** course at *
 - Compare hotel prices during Hajj, Ramadan, Pre-Hajj, and Regular Umrah.
 - Study the relationship between hotel ratings and prices.
 - Compare a custom dataset with a public hotel booking dataset.
-- Build and evaluate machine learning models for hotel price prediction. :contentReference[oaicite:1]{index=1}
+- Build and evaluate machine learning models for hotel price prediction. 
 
 ---
 
